@@ -21,7 +21,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "sleekLoad 2";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -52,21 +52,21 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/";
+var l_background = "backgrounds/videos/glimmering.webm";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/1.jpg",
-	"backgrounds/images/2.jpg",
-	"backgrounds/images/3.jpg"
-        "backgrounds/images/4.jpg"
-        "backgrounds/images/5.jpg",
-	"backgrounds/images/6.jpg",
-	"backgrounds/images/7.jpg"
-        "backgrounds/images/8.jpg"
-        "backgrounds/images/9.jpg",
+	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/touhou02.jpg",
+	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/touhou04.jpg",
+	"backgrounds/images/touhou05.jpg",
+	"backgrounds/images/touhou06.jpg",
+	"backgrounds/images/touhou07.jpg",
+	"backgrounds/images/touhou08.jpg",
+	"backgrounds/images/touhou09.jpg",
 ];
 
 /*Random background images order?*/
@@ -87,7 +87,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 0;
+var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -99,7 +99,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "", name: ""},
+	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
 	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
 	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
 	{youtube: "-7VeTkLKdDw", name: "Departure"}
@@ -110,16 +110,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 25;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Amusez Vous Bien",
-"Bienvenue Merci De Rejoindre Notre Serveur!",
-"Workshop = http://steamcommunity.com/sharedfiles/filedetails/?id=451272403"
+"Enjoy the server",
+"Thanks for joining us!",
+"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
