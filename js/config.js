@@ -68,9 +68,6 @@ var l_bgImages = [
 	"backgrounds/images/touhou09.jpg",
         "backgrounds/images/touhou10.jpg",
         "backgrounds/images/touhou11.jpg",
-	"backgrounds/images/touhou12.jpg",
-	"backgrounds/images/touhou13.jpg",
-        "backgrounds/images/touhou14.jpg",
 ];
 
 /*Random background images order?*/
