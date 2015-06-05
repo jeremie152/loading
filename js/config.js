@@ -100,8 +100,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/wisin.ogg", name: "Wisin & Yandel"},
-	{ogg: "songs/wisin2.ogg", name: "Wisin & Yandel remix"},
+	{ogg: "songs/wisin.ogg", name: "Wisin & Yandel - 'Remix) Algo Me Gusta De Ti ft. Daddy Yankee, T-Pain "},
+	{ogg: "songs/wisin2.ogg", name: "Wisin & Yandel - Algo Me Gusta De Ti ft. Chris Brown, T-Pain"},
 ];
 
 /*Random music order?*/
