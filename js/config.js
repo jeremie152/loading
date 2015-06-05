@@ -139,6 +139,6 @@ var l_messagesFade = 1000;
 
 /*
 --------------------------------------
---------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
 ----------------------------------------
 */
