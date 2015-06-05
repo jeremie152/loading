@@ -122,6 +122,8 @@ var l_messages = [
 "Bienvenue Sur Notre Serveur Apocalypse vs Ryoken",
 "Respecter Les Regles SVP !!!",
 "Apocalypse et Ryoken Createur / coder !!!"
+"[FR] Apocalypse vs Ryoken DarkRP Serious [FR]"
+"steamcommunity.com/sharedfiles/filedetails/?id=451272403"
 ];
 
 /*Random message order?*/
@@ -137,6 +139,6 @@ var l_messagesFade = 1000;
 
 /*
 --------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
+--------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
 ----------------------------------------
 */
