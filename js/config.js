@@ -121,8 +121,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
+"Bienvenue Sur Notre Serveur",
+"Respecter Les Regles SVP !!!",
 "Did you know these backgrounds and songs are from Touhou?"
 ];
 
