@@ -119,11 +119,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Bienvenue Sur Notre Serveur Apocalypse vs Ryoken",
+"Bienvenue Sur Notre Serveur",
 "Respecter Les Regles SVP !!!",
-"Apocalypse et Ryoken Createur / coder !!!"
-"[FR] Apocalypse vs Ryoken DarkRP Serious [FR]"
-"steamcommunity.com/sharedfiles/filedetails/?id=451272403"
+"Apocalypse et Ryoken Createur / coder !!!",
+"[FR] Apocalypse vs Ryoken DarkRP Serious [FR]",
+"steamcommunity.com/sharedfiles/filedetails/?id=451272403",
 ];
 
 /*Random message order?*/
