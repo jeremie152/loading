@@ -104,8 +104,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/DonOmar.ogg", name: "Don Omar Pobre Diabla"},
-        {ogg: "songs/wisin.ogg", name: "Don Omar Pobre Diabla"},
-        {ogg: "songs/laure.ogg", name: "Don Omar Pobre Diabla"},
+        {ogg: "songs/wisin.ogg", name: "Wisin & Yandel"},
         {youtube: "id", name: "nom"},
 	
 ];
