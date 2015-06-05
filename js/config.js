@@ -123,7 +123,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Bienvenue Sur Notre Serveur",
 "Respecter Les Regles SVP !!!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Apocalypse et Ryoken Createur / coder?"
 ];
 
 /*Random message order?*/
