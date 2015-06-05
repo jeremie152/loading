@@ -103,12 +103,11 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{mp3: "songs/DonOmar.mp3", name: "Don Omar Pobre Diabla"},
-        {mp3: "songs/laure.mp3", name: "j'en sait rien"},
-        {mp3: "songs/DonOmar.mp3", name: "Wisin & Yandel"},
-        {youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{ogg: "songs/DonOmar.ogg", name: "Don Omar Pobre Diabla"},
+        {ogg: "songs/wisin.ogg", name: "Don Omar Pobre Diabla"},
+        {ogg: "songs/laure.ogg", name: "Don Omar Pobre Diabla"},
+        {youtube: "id", name: "nom"},
+	
 ];
 
 /*Random music order?*/
