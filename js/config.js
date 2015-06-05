@@ -10,9 +10,9 @@
  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
     version 2.04
 	
---------------------------------------
+
 --------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
-----------------------------------------	
+	
 */
 
 /*URL for the server logo
@@ -87,7 +87,7 @@ in milliseconds*/
 var l_bgImageFadeVelocity = 2000;
 
 /*Enable background overlay?*/
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
@@ -138,7 +138,7 @@ in milliseconds*/
 var l_messagesFade = 1000;
 
 /*
---------------------------------------
+
 --------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
-----------------------------------------
+
 */
