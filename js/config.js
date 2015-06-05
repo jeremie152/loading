@@ -17,11 +17,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "[FR] Apocalypse DarkRP Serious New [FR]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
