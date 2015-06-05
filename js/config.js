@@ -21,7 +21,7 @@ var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "[FR] Apocalypse vs Ryoken DarkRP Serious [FR]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -84,7 +84,7 @@ in milliseconds*/
 var l_bgImageFadeVelocity = 2000;
 
 /*Enable background overlay?*/
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
