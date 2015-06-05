@@ -11,8 +11,9 @@
     version 2.04
 	
 
---------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
-	
+--------------------------------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
+----------------------------------------	
 */
 
 /*URL for the server logo
@@ -114,16 +115,16 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Bienvenue Sur Notre Serveur",
+"Bienvenue Sur Notre Serveur Apocalypse vs Ryoken",
 "Respecter Les Regles SVP !!!",
-"Apocalypse et Ryoken Createur / coder?"
+"Apocalypse et Ryoken Createur / coder !!!"
 ];
 
 /*Random message order?*/
@@ -138,7 +139,7 @@ in milliseconds*/
 var l_messagesFade = 1000;
 
 /*
-
---------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
-
+--------------------------------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
+----------------------------------------
 */
