@@ -123,8 +123,6 @@ var l_messages = [
 "Respecter Les Regles SVP !!!",
 "Apocalypse et Ryoken Createur / coder !!!",
 "[FR] Apocalypse vs Ryoken DarkRP Serious [FR]",
-"steamcommunity.com/sharedfiles/filedetails/?id=451272403",
-];
 
 /*Random message order?*/
 var l_messagesRandom = true;
