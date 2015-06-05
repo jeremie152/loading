@@ -106,7 +106,7 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/wisin.ogg", name: "Wisin & Yandel"},
         {ogg: "songs/DonOmar.ogg", name: "Don Omar"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	
 	
 	
 ];
@@ -116,7 +116,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 0;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
