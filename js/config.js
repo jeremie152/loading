@@ -1,6 +1,6 @@
 ﻿/*
 --------------------------------------
---------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
 ----------------------------------------
       _           _    _                     _ 
      | |         | |  | |                   | |
@@ -11,7 +11,7 @@
     version 2.04
 	
 --------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
+--------[FR] Apocalypse vs Ryoken DarkRP Serious [FR] --------------
 ----------------------------------------	
 */
 
@@ -21,7 +21,7 @@ var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "[FR] Apocalypse vs Ryoken DarkRP Serious [FR]";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
