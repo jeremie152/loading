@@ -1,4 +1,4 @@
-﻿/*
+/*
 --------------------------------------
 --------LEAKED BY ANONYMOUS LEAKR --------------
 ----------------------------------------
@@ -10,7 +10,6 @@
  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
     version 2.04
 	
-
 --------------------------------------
 --------LEAKED BY ANONYMOUS LEAKR --------------
 ----------------------------------------	
@@ -22,7 +21,7 @@ var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "[FR] Apocalypse vs Ryoken DarkRP Serious [FR]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -67,11 +66,11 @@ var l_bgImages = [
 	"backgrounds/images/touhou07.jpg",
 	"backgrounds/images/touhou08.jpg",
 	"backgrounds/images/touhou09.jpg",
-        "backgrounds/images/touhou10.jpg",
-        "backgrounds/images/touhou11.jpg",
+    "backgrounds/images/touhou10.jpg",
+    "backgrounds/images/touhou11.jpg",
 	"backgrounds/images/touhou12.jpg",
 	"backgrounds/images/touhou13.jpg",
-        "backgrounds/images/touhou14.jpg",
+    "backgrounds/images/touhou14.jpg",
 ];
 
 /*Random background images order?*/
@@ -88,11 +87,11 @@ in milliseconds*/
 var l_bgImageFadeVelocity = 2000;
 
 /*Enable background overlay?*/
-var l_bgOverlay = false;
+var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 0;
+var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -105,9 +104,9 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/wisin.ogg", name: "Wisin & Yandel"},
+	{ogg: "songs/wisin.ogg", name: "Wisin & Yandel"},
+	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"}
 	{youtube: "-7VeTkLKdDw", name: "Departure"}
-	
-	
 ];
 
 /*Random music order?*/
@@ -123,7 +122,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Bienvenue Sur Notre Serveur Apocalypse vs Ryoken",
-"Respecter Les Regles SVP !!!",
+"Respecter Les Regles SVP !!!!",
 "Apocalypse et Ryoken Createur / coder !!!"
 ];
 
