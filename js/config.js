@@ -21,7 +21,7 @@ var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "[FR] Apocalypse DarkRP Serious [FR]";
+var l_serverName = "[FR] Apocalypse vs Ryoken DarkRP Serious [FR]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -119,7 +119,7 @@ var l_messages = [
 "Bienvenue Sur Notre Serveur",
 "Respecter Les Regles SVP !!!",
 "Apocalypse Createur / coder !!!",
-"[FR] Apocalypse DarkRP Serious [FR]",
+"[FR] Apocalypse vs Ryoken DarkRP Serious [FR]",
 ];
 
 /*Random message order?*/
