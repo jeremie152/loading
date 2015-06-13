@@ -118,8 +118,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Bienvenue Sur Notre Serveur",
 "Respecter Les Regles SVP !!!",
-"Apocalypse et Ryoken Createur / coder !!!",
-"[FR] Apocalypse vs Ryoken DarkRP Serious [FR]",
+"Apocalypse Createur / coder !!!",
+"[FR] Apocalypse DarkRP Serious [FR]",
 ];
 
 /*Random message order?*/
