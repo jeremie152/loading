@@ -1,4 +1,8 @@
-
+/*
+--------------------------------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
+----------------------------------------
+*/
 
 //Array randomizer (Fisher-Yates algorithm)
 function shuffle(array) {
@@ -200,3 +204,8 @@ function showMessage(message) {
 	}, l_messagesDelay + l_messagesFade*2);
 }
 
+/*
+--------------------------------------
+--------LEAKED BY ANONYMOUS LEAKR --------------
+----------------------------------------
+*/
